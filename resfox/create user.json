@@ -1,0 +1,18 @@
+{
+    "_type": "request",
+    "method": "POST",
+    "body": {
+        "mimeType": "application/json",
+        "text": "{\n    \"name\": \"test5\",\n    \"email\": \"test5@email.com\",\n    \"password\": \"test5\"\n}"
+    },
+    "url": "http://localhost:8080/create-user",
+    "sortOrder": 0,
+    "parameters": [],
+    "pathParameters": [],
+    "headers": [
+        {
+            "name": "Content-Type",
+            "value": "application/json"
+        }
+    ]
+}

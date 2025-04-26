@@ -1,0 +1,11 @@
+{
+  "name": "app2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^5.1.0",
+    "kafka-node": "^5.0.0",
+    "mongoose": "^8.13.2"
+  }
+}
